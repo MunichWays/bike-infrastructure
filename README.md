@@ -1,2 +1,2 @@
 # Fahrradinfrastruktur-Elemente
-https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki
+https://github.com/MunichWays/bike-infrastructure/wiki
