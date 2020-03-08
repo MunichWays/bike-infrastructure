@@ -1,7 +1,9 @@
 # Dein Fahrrad, Dein Bezirk
 Lass Dich inspirieren von unseren Beispielen.
 
-![Herzog-Heinrich-Straße](https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg)
+<p align="center">
+<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="450">
+</p>
 
 **1. Sichere, breite und komfortable Radverkehrsanlagen**
 * [geschützter Radweg: Variante Doppelborde](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gesch%C3%BCtzter-Radweg:-Variante-Doppelborde)
