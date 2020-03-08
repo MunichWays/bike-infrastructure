@@ -12,12 +12,6 @@ Lass Dich inspirieren von unseren Beispielen.
 * [breiter Radweg](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/breiter-Radweg)
 * [Abstützhilfen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Abst%C3%BCtzhilfen)
 
-
-
-
-
-
-
 **2. Durchgängiges und leistungsfähiges Rad-Vorrangnetz**
 * [ebener Radweg](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/ebener-Radweg)
 * [Dreiviertelinsel](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Dreiviertelinsel)
@@ -32,4 +26,6 @@ Lass Dich inspirieren von unseren Beispielen.
 * [gleichberechtigte Ampelschaltung](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gleichberechtigte-Ampelschaltung)
 * [grüne Welle](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gr%C3%BCne-Welle)
 * [Bremsschwellen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Bremsschwellen)
+
+
 https://github.com/MunichWays/bike-infrastructure/wiki
