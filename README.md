@@ -40,4 +40,9 @@ Lass Dich inspirieren von unseren Beispielen.
 * [Fahrradstraße](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradstra%C3%9Fe)
 * [Einbahnstraße](https://github.com/MunichWays/bike-infrastructure/wiki/%C3%96ffnung-einer-Einbahnstra%C3%9Fe-f%C3%BCr-Fahrradfahrer)
 
-https://github.com/MunichWays/bike-infrastructure/wiki
+
+**So einfach wie Radfahren**
+
+![MunichWays](https://www.munichways.com/wp-content/uploads/2019/02/Logo_Munichways_150.jpg)
+
+in Kooperation mit Green City e.V.
