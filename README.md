@@ -24,10 +24,20 @@ Lass Dich inspirieren von unseren Beispielen.
 **3. Sichere, komfortable und stressfreie Kreuzungen und Einmündungen**
 * [unverparkbare Einmündungen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/unverparkbare-Einm%C3%BCndungen)
 * [Kreisverkehr mit Radverkehrsführung](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Kreisverkehr-mit-Radverkehrsf%C3%BChrung)
+* [vorgezogene Aufstellfläche](https://github.com/MunichWays/bike-infrastructure/wiki/vorgezogene-Aufstellfl%C3%A4che)
 * [Vorfahrt](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Vorfahrt)
 * [gleichberechtigte Ampelschaltung](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gleichberechtigte-Ampelschaltung)
 * [grüne Welle](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gr%C3%BCne-Welle)
 * [Bremsschwellen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Bremsschwellen)
 
+
+**4. Bedarfsgerechte, flächendeckende und sichere Fahrradabstellmöglichkeiten**
+* [Fahrradständer](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradst%C3%A4nder)
+* [überdachte Abstellanlage](https://github.com/MunichWays/bike-infrastructure/wiki/%C3%BCberdachte-Abstellanlage)
+* [Fahrradgarage](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradgarage)
+
+**5. Eine Flächeneffiziente und sozial gerechte Aufteilung des öffentlichen Raums**
+* [Fahrradstraße](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradstra%C3%9Fe)
+* [Einbahnstraße](https://github.com/MunichWays/bike-infrastructure/wiki/%C3%96ffnung-einer-Einbahnstra%C3%9Fe-f%C3%BCr-Fahrradfahrer)
 
 https://github.com/MunichWays/bike-infrastructure/wiki
