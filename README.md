@@ -1,3 +1,7 @@
+<p align="right">
+<img src="https://www.munichways.com/wp-content/uploads/2019/02/Logo_Munichways_150.jpg" height="80">
+</p>
+
 # Dein Fahrrad, Dein Bezirk
 Lass Dich inspirieren von unseren Beispielen.
 
