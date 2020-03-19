@@ -1,8 +1,8 @@
 # Dein Fahrrad, Dein Bezirk
 Lass Dich inspirieren von unseren Beispielen.
 
-<p align="center">
-<img src="https://www.munichways.com/wp-content/uploads/2020/03/Infra-Beispiele.jpg" height="450">
+<p align="left">
+<img src="https://www.munichways.com/wp-content/uploads/2020/03/Infra-Beispiele.jpg" height="350">
 </p>
 
 
@@ -16,8 +16,8 @@ Lass Dich inspirieren von unseren Beispielen.
 * [Abstützhilfen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Abst%C3%BCtzhilfen)
 
 
-<p align="center">
-<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="450">
+<p align="left">
+<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="350">
 </p>
 
 **2. Durchgängiges und leistungsfähiges Rad-Vorrangnetz**
@@ -27,9 +27,8 @@ Lass Dich inspirieren von unseren Beispielen.
 * [Brücke](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Br%C3%BCcke)
 * [Schranke](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Schranke)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/75039525-297d9380-54b9-11ea-9fc2-1ea14b8e992f.jpg
-" height="450">
+<p align="left">
+<img src="https://user-images.githubusercontent.com/50057640/75039525-297d9380-54b9-11ea-9fc2-1ea14b8e992f.jpg" height="250">
 </p>
 
 **3. Sichere, komfortable und stressfreie Kreuzungen und Einmündungen**
