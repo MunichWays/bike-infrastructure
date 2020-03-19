@@ -40,11 +40,18 @@ Lass Dich inspirieren von unseren Beispielen.
 * [grüne Welle](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gr%C3%BCne-Welle)
 * [Bremsschwellen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Bremsschwellen)
 
+<p align="left">
+<img src="https://user-images.githubusercontent.com/50057640/75051584-71f37c00-54ce-11ea-92d0-43b517e8d94f.jpeg" height="150">
+</p>
 
 **4. Bedarfsgerechte, flächendeckende und sichere Fahrradabstellmöglichkeiten**
 * [Fahrradständer](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradst%C3%A4nder)
 * [überdachte Abstellanlage](https://github.com/MunichWays/bike-infrastructure/wiki/%C3%BCberdachte-Abstellanlage)
 * [Fahrradgarage](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradgarage)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/50057640/76316014-1a307f80-62da-11ea-8030-03958ed104fd.jpeg" height="150">
+</p>
 
 **5. Eine Flächeneffiziente und sozial gerechte Aufteilung des öffentlichen Raums**
 * [Fahrradstraße](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradstra%C3%9Fe)
