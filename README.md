@@ -2,8 +2,9 @@
 Lass Dich inspirieren von unseren Beispielen.
 
 <p align="center">
-<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="450">
+<img src="https://www.munichways.com/wp-content/uploads/2020/03/Infra-Beispiele.jpg" height="450">
 </p>
+
 
 **1. Sichere, breite und komfortable Radverkehrsanlagen**
 * [geschützter Radweg: Variante Doppelborde](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gesch%C3%BCtzter-Radweg:-Variante-Doppelborde)
@@ -13,6 +14,11 @@ Lass Dich inspirieren von unseren Beispielen.
 * [farbige Markierungen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/farbige-Markierungen---durchgehend-eingef%C3%A4rbte-Oberfl%C3%A4che)
 * [breiter Radweg](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/breiter-Radweg)
 * [Abstützhilfen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Abst%C3%BCtzhilfen)
+
+
+<p align="center">
+<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="450">
+</p>
 
 **2. Durchgängiges und leistungsfähiges Rad-Vorrangnetz**
 * [ebener Radweg](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/ebener-Radweg)
