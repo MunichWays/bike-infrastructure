@@ -27,6 +27,11 @@ Lass Dich inspirieren von unseren Beispielen.
 * [Brücke](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Br%C3%BCcke)
 * [Schranke](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Schranke)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50057640/75039525-297d9380-54b9-11ea-9fc2-1ea14b8e992f.jpg
+" height="450">
+</p>
+
 **3. Sichere, komfortable und stressfreie Kreuzungen und Einmündungen**
 * [unverparkbare Einmündungen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/unverparkbare-Einm%C3%BCndungen)
 * [Kreisverkehr mit Radverkehrsführung](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Kreisverkehr-mit-Radverkehrsf%C3%BChrung)
