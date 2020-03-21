@@ -15,11 +15,6 @@ Lass Dich inspirieren von unseren Beispielen.
 * [breiter Radweg](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/breiter-Radweg)
 * [Abstützhilfen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Abst%C3%BCtzhilfen)
 
-
-<p align="left">
-<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="250">
-</p>
-
 **2. Durchgängiges und leistungsfähiges Rad-Vorrangnetz**
 * [ebener Radweg](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/ebener-Radweg)
 * [Dreiviertelinsel](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Dreiviertelinsel)
