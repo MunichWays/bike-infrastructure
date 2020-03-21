@@ -1,12 +1,8 @@
-<p align="right">
-<img src="https://www.munichways.com/wp-content/uploads/2019/02/Logo_Munichways_150.jpg" height="80">
-</p>
-
 # Dein Fahrrad, Dein Bezirk
 Lass Dich inspirieren von unseren Beispielen.
 
 <p align="left">
-<img src="https://www.munichways.com/wp-content/uploads/2020/03/Infra-Beispiele.jpg" height="350">
+<img src="https://www.munichways.com/wp-content/uploads/2020/03/Infra-Beispiele.jpg" height="250">
 </p>
 
 
@@ -21,7 +17,7 @@ Lass Dich inspirieren von unseren Beispielen.
 
 
 <p align="left">
-<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="350">
+<img src="https://www.munichways.com/wp-content/uploads/2020/02/Herzog-Heinrich-Stra%C3%9Fe_breiter-Gehweg-gr%C3%BCnefleche.jpg" height="250">
 </p>
 
 **2. Durchgängiges und leistungsfähiges Rad-Vorrangnetz**
@@ -32,7 +28,7 @@ Lass Dich inspirieren von unseren Beispielen.
 * [Schranke](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Schranke)
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/50057640/75039525-297d9380-54b9-11ea-9fc2-1ea14b8e992f.jpg" height="250">
+<img src="https://user-images.githubusercontent.com/50057640/75039525-297d9380-54b9-11ea-9fc2-1ea14b8e992f.jpg" height="150">
 </p>
 
 **3. Sichere, komfortable und stressfreie Kreuzungen und Einmündungen**
@@ -65,5 +61,7 @@ Lass Dich inspirieren von unseren Beispielen.
 **So einfach wie Radfahren**
 
 ![MunichWays](https://www.munichways.com/wp-content/uploads/2019/02/Logo_Munichways_150.jpg)
+
+[www.radlvorrangnetz.de](https://www.munichways.com)
 
 in Kooperation mit Green City e.V.
