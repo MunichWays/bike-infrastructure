@@ -19,7 +19,7 @@ Lass Dich inspirieren von unseren Beispielen.
 **2. Durchgängiges und leistungsfähiges Rad-Vorrangnetz**
 * [Wurzelfreier, ebener Radweg](https://github.com/MunichWays/bike-infrastructure/wiki/Wurzelfreier,-ebener-Radweg)
 * [Brücke für Fuß- und Fahrradverkehr](https://github.com/MunichWays/bike-infrastructure/wiki/Br%C3%BCcke-f%C3%BCr-Fu%C3%9F--und-Fahrradverkehr)
-* [Grüner Pfeil zum Rechtsabbiegen](xxx)
+* [Grüner Pfeil zum Rechtsabbiegen](https://github.com/MunichWays/bike-infrastructure/wiki/Gr%C3%BCner-Pfeil-zum-Rechtsabbiegen)
 * [Komfortable Kurven](https://github.com/MunichWays/bike-infrastructure/wiki/Komfortable-Kurven)
 * [grüne Welle](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gr%C3%BCne-Welle)
 * [Vorfahrt](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Vorfahrt)
