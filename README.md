@@ -1,4 +1,9 @@
 # Dein Fahrrad, Dein Bezirk
+Ziel dieses Projektes ist es die Zivilgesellschaft mit weiteren Akteuren der Stadtentwicklung gleichzusetzen. Sie sollen befähigt werden den städtischen Raum zu evaluieren und die Fahrradinfrastruktur Münchens eigenhändig auf Grund ihrer lokalen Kenntnisse, eigener Bedürfnisse und Präferenzen kreativ zu planen, obwohl sie keine Experten für Stadtplanung sind.
+
+BA-RadlVorrang-Karte-to-go ist ein Werkzeug aus dem BA-Werkzeugkoffer,
+der sich auf unserer Internetseite befindet. Dort sind sämtlich Ansprechpartner der Bezirksausschüsse gelistet und Informationen, wie ein Antrag zur Verbesserung der Fahrradinfrastruktur Münchens gelingt, zu finden. Dafür stehen entsprechende Beispielanträge und Karten für jeden Stadtbezirk zur Verfügung.    https://www.munichways.com/die-aktionen/ba-werkzeugkoffer/ 
+
 Lass Dich inspirieren von unseren Beispielen.
 
 <p align="left">
