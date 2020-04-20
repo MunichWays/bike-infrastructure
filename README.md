@@ -2,7 +2,7 @@
 Lass Dich inspirieren von unseren Beispielen.
 
 <p align="left">
-<img src="https://www.munichways.com/wp-content/uploads/2020/03/Infra-Beispiele.jpg" height="250">
+<img src="https://user-images.githubusercontent.com/50057640/79761581-f113fd80-8321-11ea-8962-868e79a63a79.JPG" height="450">
 </p>
 
 
