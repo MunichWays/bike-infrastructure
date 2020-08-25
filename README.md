@@ -22,7 +22,7 @@ Lass Dich inspirieren von unseren Beispielen.
 * [Abstützhilfen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Abst%C3%BCtzhilfen)
 
 **2. Durchgängiges und leistungsfähiges Rad-Vorrangnetz**
-* [Wurzelfreier, ebener Radweg](https://github.com/MunichWays/bike-infrastructure/wiki/Wurzelfreier,-ebener-Radweg)
+* [ebener Radweg](https://github.com/MunichWays/bike-infrastructure/wiki/ebener-Radweg)
 * [Brücke für Fuß- und Fahrradverkehr](https://github.com/MunichWays/bike-infrastructure/wiki/Br%C3%BCcke-f%C3%BCr-Fu%C3%9F--und-Fahrradverkehr)
 * [Grüner Pfeil zum Rechtsabbiegen](https://github.com/MunichWays/bike-infrastructure/wiki/Gr%C3%BCner-Pfeil-zum-Rechtsabbiegen)
 * [Komfortable Kurven](https://github.com/MunichWays/bike-infrastructure/wiki/Komfortable-Kurven)
