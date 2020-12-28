@@ -17,7 +17,7 @@ Lass Dich inspirieren von unseren Beispielen.
 * [breiter Radweg](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/breiter-Radweg)
 * [geschützter Radweg: Variante Doppelborde](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gesch%C3%BCtzter-Radweg:-Variante-Doppelborde)
 * [geschützter Radweg: Variante Poller](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/gesch%C3%BCtzter-Radweg:-Variante-Poller)
-* [Vom Fußverkehr baulich getrennter Radweg](https://github.com/MunichWays/bike-infrastructure/wiki/Vom-Fu%C3%9Fverkehr-baulich-getrennter-Radweg)
+* [Vom Fußverkehr getrennter Radweg](https://github.com/MunichWays/bike-infrastructure/wiki/Vom-Fu%C3%9Fverkehr-getrennter-Radweg)
 * [Geschwindgkeitsreduzierung Tempo 30](https://github.com/MunichWays/bike-infrastructure/wiki/Geschwindgkeitsreduzierung-Tempo-30)
 * [Abstützhilfen](https://github.com/gari01234/Fahrradinfrastruktur-Elemente/wiki/Abst%C3%BCtzhilfen)
 
