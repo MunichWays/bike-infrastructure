@@ -50,9 +50,10 @@ Lass Dich inspirieren von unseren Beispielen.
 * [Shared Space (gemeinsame Nutzung)](https://github.com/MunichWays/bike-infrastructure/wiki/Shared-Space-(gemeinsame-Nutzung))
 
 <br><br>
+
 **So einfach wie Radfahren**
 
-![MunichWays](https://www.munichways.com/wp-content/uploads/2019/02/Logo_Munichways_150.jpg)
+![MunichWays](https://www.munichways.com/wp-content/uploads/2020/11/MunichWays_Logo_Web_72dpi.png)
 
 [www.radlvorrangnetz.de](https://www.munichways.com)
 
