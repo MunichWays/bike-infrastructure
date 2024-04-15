@@ -47,7 +47,7 @@ Lass Dich inspirieren von unseren Beispielen.
 **5. Eine Flächeneffiziente und sozial gerechte Aufteilung des öffentlichen Raums**
 * [Fahrradstraße](https://github.com/MunichWays/bike-infrastructure/wiki/Fahrradstra%C3%9Fe)
 * [Öffnung einer Einbahnstraße für Fahrräder](https://github.com/MunichWays/bike-infrastructure/wiki/%C3%96ffnung-einer-Einbahnstra%C3%9Fe-f%C3%BCr-Fahrradfahrer)
-* [Shared Space (gemeinsame Nutzung)](https://github.com/MunichWays/bike-infrastructure/wiki/Shared-Space-(gemeinsame-Nutzung))
+* [Verkehrsberuhigter-Geschäftsbereich (Shared Space)](https://github.com/MunichWays/bike-infrastructure/wiki/Verkehrsberuhigter-Geschäftsbereich)
 
 <br><br>
 
